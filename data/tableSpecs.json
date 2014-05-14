@@ -1,0 +1,2 @@
+{ "name": "adynLists", "keys": [{"name": "owner", "keyType": "HASH", "attrType": "S"}, {"name": "id", "keyType": "RANGE", "attrType": "S"}] }
+{ "name": "adynTodos", "keys": [{"name": "list", "keyType": "HASH", "attrType": "S"}, {"name": "id", "keyType": "RANGE", "attrType": "S"}] }
